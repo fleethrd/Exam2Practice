@@ -2,8 +2,8 @@
 PRACTICE Test 2, practice_problem 2.
 
 Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+         their colleagues and Ryan Fleetham.
+"""  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 ########################################################################
 # Students:
@@ -55,7 +55,7 @@ def run_test_practice_problem2a():
     print('--------------------------------------------------')
     print('Testing the   practice_problem2a   function:')
     print('--------------------------------------------------')
-
+    
 
 def practice_problem2a(sequence, delta):
     """
